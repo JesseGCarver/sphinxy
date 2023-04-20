@@ -12,8 +12,8 @@ Welcome!
 
    modules
 
-You Got: Pharoh Shot
---------------------
+You Got: Pharoh Shot!!
+----------------------
 .. image:: _static/pm.gif
 
 
