@@ -12,8 +12,8 @@ Welcome to Sphinxy's documentation!
 
    modules
 
-You Got: Pharo Shot
--------------------
+You Got: Pharoh Shot
+--------------------
 .. image:: _static/pm.gif
 
 
